@@ -1,0 +1,3 @@
+------------------>>
+
+Este arquivo que estou criando faz parte do curso da geração tech 2.0 na introdução de git e github.
